@@ -1,6 +1,6 @@
 <!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abin+Benny!;AI+%7C+ML+%7C+Web+Dev+%7C+Cloud+%7C+IEEE+GDSC+TinkerHub;Welcome+to+my+GitHub+Universe!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abin+Benny!;AI+%7C+ML+%7C+Web+Dev+%7C+Cloud+%7C;Welcome+to+my+GitHub+Universe!">
 </p>
 
 <!-- Hero banner gif -->
@@ -13,6 +13,16 @@
 <h3 align="center">Passionate CSE Student | AI & ML Enthusiast | Web Developer | IEEE | GDSC | TinkerHub</h3>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abin-089&label=Profile%20views&color=0e75b6&style=flat" alt="Abin-089" />
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvru6y8V8pGg9F7E8W/giphy.gif" width="50" alt="Wave GIF" />
+  <h1>Hi, I'm Abin Benny!</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdmZWQzMGY4ZGZiMTYyNGIwNmRmNzUzYjAwNWZhOTBhYTM4OWY4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/o75V7V7uT9xP2/giphy.gif" alt="Typing Animation" width="250"/>
+  <h3>🚀 Passionate CSE Student | 🤖 AI & ML Enthusiast | 🌐 Web Developer | 🌟 IEEE | 💡 GDSC | 🛠️ TinkerHub</h3>
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abin-089&label=Profile%20views&color=0e75b6&style=flat" alt="Abin-089" />
 </p>
 
@@ -48,7 +58,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,flask,tensorflow,pytorch,mysql,mongodb,docker,kubernetes,git,linux" />
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -65,17 +77,26 @@
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/abin-benny-372365255" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Abin-089" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@abinbenny9739" target="blank"><img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/codex_plorer/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+## 🔗 Let's Connect!
+
+Find me across the web and let's build connections.
+
+<p align="center">
+  <a href="https://linkedin.com/in/abin-benny-372365255" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Abin-089" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@abinbenny9739" target="blank"><img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/codex_plorer/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### ⚡ Fun Facts
-- 🧠 I'm part of IEEE, GDSC, and TinkerHub.
-- 🚀 I built a **Hostel Management System**, **BMI Calculator with food analysis**, and a **Real-Time UAV Tracker**.
-- 🏀 I play **college basketball** and love mixing tech with sports.
+## ⚡ Fun Facts About Me
+
+* 🧠 I'm an active member of **IEEE, GDSC, and TinkerHub** – constantly engaging with vibrant tech communities!
+* 🚀 I've built some cool projects: a **Hostel Management System**, a **BMI Calculator with food analysis**, and a **Real-Time UAV Tracker**. Practical solutions, real impact!
+* 🏀 When I'm not coding, you'll find me on the court! I play **college basketball** and love mixing tech innovations with sports analytics. Game on! ⛹️‍♂️
+* 💡 I believe in continuous learning and enjoy exploring new frontiers in AI, especially **Generative AI** and its potential.
+  <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaOCsLUt2L3pc/giphy.gif" alt="Coding GIF" width="60" />
+  <em>Let's build something awesome together!</em>
+</p>
