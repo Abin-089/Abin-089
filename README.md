@@ -5,12 +5,8 @@
 
 <!-- Hero banner gif -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100% />
 </p>
-
-<h3 align="center">Final Year CSE Student | UAV Dev | Open Source | Cloud & Automation | YouTuber</h3>
-
-<h3 align="center">Passionate CSE Student | AI & ML Enthusiast | Web Developer | IEEE | GDSC | TinkerHub</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abin-089&label=Profile%20views&color=0e75b6&style=flat" alt="Abin-089" />
